@@ -1,0 +1,14 @@
+C:\Users\samirhasanli\source\repos\text6\text6\bin\Debug\net8.0\text6.exe
+C:\Users\samirhasanli\source\repos\text6\text6\bin\Debug\net8.0\text6.deps.json
+C:\Users\samirhasanli\source\repos\text6\text6\bin\Debug\net8.0\text6.runtimeconfig.json
+C:\Users\samirhasanli\source\repos\text6\text6\bin\Debug\net8.0\text6.dll
+C:\Users\samirhasanli\source\repos\text6\text6\bin\Debug\net8.0\text6.pdb
+C:\Users\samirhasanli\source\repos\text6\text6\obj\Debug\net8.0\text6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samirhasanli\source\repos\text6\text6\obj\Debug\net8.0\text6.AssemblyInfoInputs.cache
+C:\Users\samirhasanli\source\repos\text6\text6\obj\Debug\net8.0\text6.AssemblyInfo.cs
+C:\Users\samirhasanli\source\repos\text6\text6\obj\Debug\net8.0\text6.csproj.CoreCompileInputs.cache
+C:\Users\samirhasanli\source\repos\text6\text6\obj\Debug\net8.0\text6.dll
+C:\Users\samirhasanli\source\repos\text6\text6\obj\Debug\net8.0\refint\text6.dll
+C:\Users\samirhasanli\source\repos\text6\text6\obj\Debug\net8.0\text6.pdb
+C:\Users\samirhasanli\source\repos\text6\text6\obj\Debug\net8.0\text6.genruntimeconfig.cache
+C:\Users\samirhasanli\source\repos\text6\text6\obj\Debug\net8.0\ref\text6.dll
